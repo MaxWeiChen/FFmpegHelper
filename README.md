@@ -1,5 +1,5 @@
 # FFmpegHelper
-幫忙使用FFmpeg的小幫手，都是使用ffmpeg寫出來的shell script，用於mac，可以幫忙使用ffmpeg做一些事
+幫忙使用FFmpeg的小幫手，都是使用ffmpeg寫出來的shell script，用於mac，可以幫忙記憶用ffmpeg可以做的事
 
 ## mov2gif.sh
 將.mov檔轉換成gif檔，方便用於Social Media(Twitter)
